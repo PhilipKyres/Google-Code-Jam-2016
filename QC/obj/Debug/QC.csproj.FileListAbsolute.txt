@@ -1,0 +1,7 @@
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\bin\Debug\QC.exe.config
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\bin\Debug\QC.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\bin\Debug\QC.pdb
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\obj\Debug\QC.csprojResolveAssemblyReference.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\obj\Debug\QC.csproj.CoreCompileInputs.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\obj\Debug\QC.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QC\obj\Debug\QC.pdb

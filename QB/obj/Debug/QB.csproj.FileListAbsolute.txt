@@ -1,0 +1,6 @@
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\bin\Debug\QB.exe.config
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\bin\Debug\QB.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\bin\Debug\QB.pdb
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\obj\Debug\QB.csproj.CoreCompileInputs.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\obj\Debug\QB.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\QB\obj\Debug\QB.pdb

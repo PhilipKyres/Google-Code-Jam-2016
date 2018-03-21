@@ -1,0 +1,14 @@
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\bin\Debug\GoogleCodeJam2016.exe.config
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\bin\Debug\GoogleCodeJam2016.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\bin\Debug\GoogleCodeJam2016.pdb
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\obj\Debug\QA.csprojResolveAssemblyReference.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\obj\Debug\QA.csproj.CoreCompileInputs.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\obj\Debug\GoogleCodeJam2016.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016\GoogleCodeJam2016\obj\Debug\GoogleCodeJam2016.pdb
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\bin\Debug\GoogleCodeJam2016.exe.config
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\bin\Debug\GoogleCodeJam2016.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\bin\Debug\GoogleCodeJam2016.pdb
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\obj\Debug\QA.csprojResolveAssemblyReference.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\obj\Debug\QA.csproj.CoreCompileInputs.cache
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\obj\Debug\GoogleCodeJam2016.exe
+E:\Documents\SourceTreeProjects\GoogleCodeJam2016 - Copy\QA\obj\Debug\GoogleCodeJam2016.pdb
